@@ -81,6 +81,7 @@ class PrintSlipScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: h * 0.01),
+            SizedBox(height: h * 0.01),
             // date and time
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
